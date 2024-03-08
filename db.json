@@ -1,9 +1,23 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "users": [
+    {
+      "email": "aasdasda@aa.com",
+      "password": "asd12345"
+    },
+    {
+      "id": "9806",
+      "email": "aa@aa.com",
+      "password": "asd12311"
+    },
+    {
+      "id": "5ffb",
+      "email": "asd@ac.com",
+      "password": "asd12311"
+    },
+    {
+      "id": "5682",
+      "email": "asd@aaaa.aa",
+      "password": "123123123a"
+    }
+  ]
 }
